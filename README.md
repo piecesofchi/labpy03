@@ -11,7 +11,8 @@
 6. Selesai: Menampilkan "Selesai" setelah semua data ditampilkan.
 Contoh Output:
 Jika pengguna memasukkan 5, outputnya bisa terlihat seperti ini:
-![Screenshot (36)](https://github.com/user-attachments/assets/6ab71e8a-46f9-45fb-80d1-e30fc97e7fcc)
+![Screenshot (37)](https://github.com/user-attachments/assets/75949565-397b-40d5-a178-19bfb913431d)
+
 
 
 ### Program latihan2.py
@@ -22,7 +23,8 @@ Jika pengguna memasukkan 5, outputnya bisa terlihat seperti ini:
 5. Menampilkan Hasil: Loop kedua untuk menampilkan laba untuk setiap bulan, diikuti dengan menampilkan total laba.
 Contoh Output:
 Jika pengguna memasukkan nilai laba sesuai dengan yang Anda berikan, outputnya akan terlihat seperti ini:
-![Screenshot (37)](https://github.com/user-attachments/assets/cd7f00dd-8ccf-46d8-a7f0-48fb1f1d32d9)
+![Screenshot (36)](https://github.com/user-attachments/assets/7bebeae9-bfc8-4873-afde-bc0a4688a567)
+
 
 
 ### Program latihan3.py
