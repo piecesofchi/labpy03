@@ -11,7 +11,8 @@
 6. Selesai: Menampilkan "Selesai" setelah semua data ditampilkan.
 Contoh Output:
 Jika pengguna memasukkan 5, outputnya bisa terlihat seperti ini:
-![Screenshot (37)](https://github.com/user-attachments/assets/75949565-397b-40d5-a178-19bfb913431d)
+![Screenshot (35)](https://github.com/user-attachments/assets/2bee9040-9183-4192-9cfe-a3200348ed50)
+
 
 
 
